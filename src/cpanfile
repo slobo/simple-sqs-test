@@ -1,0 +1,2 @@
+requires 'Amazon::SQS::Simple';
+
